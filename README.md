@@ -1,6 +1,6 @@
 # Python Mini Projects
 
-A collection of Python projects built while upskilling in data analytics.
+A collection of Python projects related to data analytics.
 
 ## 📂 Projects
 
